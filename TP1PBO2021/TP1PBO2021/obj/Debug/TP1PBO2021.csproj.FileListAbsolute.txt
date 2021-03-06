@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\TP1PBO2021\TP1PBO2021\bin\Debug\TP1PBO2021.exe.config
+C:\Users\USER\source\repos\TP1PBO2021\TP1PBO2021\bin\Debug\TP1PBO2021.exe
+C:\Users\USER\source\repos\TP1PBO2021\TP1PBO2021\bin\Debug\TP1PBO2021.pdb
+C:\Users\USER\source\repos\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.Form1.resources
+C:\Users\USER\source\repos\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.Properties.Resources.resources
+C:\Users\USER\source\repos\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.exe
+C:\Users\USER\source\repos\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.pdb
+C:\Users\USER\source\repos\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.Detail.resources
+C:\Users\USER\source\repos\TP1PBO2021\TP1PBO2021\obj\Debug\TP1PBO2021.Login.resources
